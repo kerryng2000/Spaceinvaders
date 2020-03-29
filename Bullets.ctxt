@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=applet\ theShip
+comment0.target=Bullets(processing.core.PApplet,\ Invader)
+comment1.params=x
+comment1.target=void\ setX(int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=y
+comment3.target=void\ setY(int)
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=void\ move2()
+comment6.params=
+comment6.target=void\ show()
+numComments=7
